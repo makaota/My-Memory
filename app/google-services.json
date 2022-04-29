@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324920042545",
+    "project_id": "my-memory-72e65",
+    "storage_bucket": "my-memory-72e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324920042545:android:83be98c701bc32e62fe110",
+        "android_client_info": {
+          "package_name": "com.makaota.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324920042545-lnou6chp0f8vuhkjuhol9m2rbkjhuvhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkbc6tfp9zDzwEWg75kYCszZFnERRWfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324920042545-lnou6chp0f8vuhkjuhol9m2rbkjhuvhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
